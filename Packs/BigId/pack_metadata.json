@@ -1,0 +1,25 @@
+{
+    "name": "BigId",
+    "description": "Gives you access to BigId API commands, and playbooks that can assist with managing data permissions and regulating scans within BigId.",
+    "support": "partner",
+    "currentVersion": "1.0.0",
+    "author": "Connor Armstrong",
+    "url": "",
+    "email": "",
+    "categories": [
+        "Vulnerability Management"
+    ],
+    "tags": [
+        "Compliance"
+    ],
+    "useCases": [],
+    "keywords": [],
+    "marketplaces": [
+        "xsoar",
+        "marketplacev2"
+    ],
+    "devEmail": [
+        "wissama@bigid.com"
+    ],
+    "githubUser": []
+}
